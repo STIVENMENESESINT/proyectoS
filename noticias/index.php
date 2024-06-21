@@ -25,7 +25,7 @@ if (!empty($categoria)) {
 }
 
 // Ejecuta la consulta
-$resultado = $conexion->query($instruccion);
+
 
 ?>
 
